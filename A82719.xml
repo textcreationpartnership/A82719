@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament to the whole kingdome, concerning the excise: with additionall instructions for the better regulating of the same. Die Lunæ 22 Feb. 1646. Ordered by the Lords assembled in Parliament, that this declaration and instruction be forthwith printed and published. Io. Brown, Cler. Parliam.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82719</idno>
+            <idno type="STC">Wing E1473</idno>
+            <idno type="STC">Thomason E377_15</idno>
+            <idno type="STC">ESTC R30022</idno>
+            <idno type="EEBO-CITATION">99872248</idno>
+            <idno type="PROQUEST">99872248</idno>
+            <idno type="VID">159956</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82719)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159956)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E377[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament to the whole kingdome, concerning the excise: with additionall instructions for the better regulating of the same. Die Lunæ 22 Feb. 1646. Ordered by the Lords assembled in Parliament, that this declaration and instruction be forthwith printed and published. Io. Brown, Cler. Parliam.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright, at the Kings head in the Old-baily.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1646. [i.e. 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Internal revenue --  England --  Early works to 1800.</term>
+               <term>Excise tax --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159956:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <p>A DECLARATION OF THE LORDS and COMMONS Aſſembled in Parliament To the whole Kingdome, Concerning the EXCISE: With additionall Inſtructions for the better Regulating of the ſame.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <head>Die Lunae 22 Feb. 1646.</head>
+                        <p>
+                           <hi>ORdered by the Lords Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, that this Declaration and Jnſtructions be forthwith printed and publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>Io. Brown. Cler. Parliam.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>John Wright,</hi> at the Kings head in the Old-baily. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:159956:2"/>
+            <!-- PDF PAGE 79 -->
+            <pb n="1" facs="tcp:159956:2"/>
+            <!-- PDF PAGE 79 -->
+            <head>
+               <hi>Die Lunae</hi> 22. <hi>Febr.</hi> 1646. A DECLARATION of the Lords and Commons Aſſem<g ref="char:EOLhyphen"/>bled in PARLIAMENT, concerning the EXCISE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lords and Commons aſſembled in Parliament, taking notice of the many Tumults and great Ri<g ref="char:EOLhyphen"/>ots, which have of late happened, and beene privily fomented in ſe<g ref="char:EOLhyphen"/>verall parts of the Kingdome a<g ref="char:EOLhyphen"/>gainſt the Recepts and Collections, of the Exciſe, by the ſecret and ſubtile deſignes and practiſes of Malignants, and ſuch, who by their falſe
+<pb n="2" facs="tcp:159956:3"/>
+               <!-- PDF PAGE 80 -->and fained pretences doe endeavour to breede a miſun<g ref="char:EOLhyphen"/>derſtanding, and impatience in the People; have for the better manifeſting of the Juſtice of their proceed<g ref="char:EOLhyphen"/>ing, and realty of their intentions thought fit to make this Declaration to the whole Kingdome.</p>
+            <p>That as nothing did or could have drawne them to reſolve upon this impoſition, but the preſervati<g ref="char:EOLhyphen"/>on of this Kingdome, the Religion, Lawes and Liber<g ref="char:EOLhyphen"/>ties from utter ruine, and diſtruction, all which at that time was threatned by the reſtleſſe, and cruell de<g ref="char:EOLhyphen"/>ſignes, practices, and treacheries of Papiſts and Ma<g ref="char:EOLhyphen"/>lignant perſons, ſo they could then finde no other meanes<g ref="char:punc">▪</g> after the well-affected had ſo willingly borne ſo many great Levies, which the Malignants had en<g ref="char:EOLhyphen"/>deavored by all cunning wayes to evade, how any lon<g ref="char:EOLhyphen"/>ger to maintaine the Parliament forces, and other great affaires of the Common Wealth, and to draw in the Malignants, and Neutrals to beare their pro<g ref="char:EOLhyphen"/>portionall parts of the charge, then by ſome ſuch conſtant, and indifferent way; And what great dif<g ref="char:EOLhyphen"/>ficulties expences, and charges, the ſaid Lords and Commons have by the Receipt<g ref="char:punc">▪</g> and credit of the Ex<g ref="char:EOLhyphen"/>cize with ſome other helpes as occaſion did require, beene enabled ever ſince, through Gods bleſſing to overcome and maintaine by continually keeping on foot ſo many ſeverall Armies as they were by the Kings party in Armes againſt the Parliament, enforc<g ref="char:EOLhyphen"/>ed to rayſe in divers parts of the Kingdome by main<g ref="char:EOLhyphen"/>taining ſo many Gariſons by relieving of Ireland from time to time when other ſupplies could not be timely raiſed, by ſatisfying our Brethren of Scotland in part; is by this time ſo evident to the whole King<g ref="char:EOLhyphen"/>dome, that they hope no well affected perſon can, or will looke back upon what hee hath contributed in this way for his part, with any regret, or repi<g ref="char:EOLhyphen"/>ning, as if the ſame had, or can be fruitleſſe to him,
+<pb n="3" facs="tcp:159956:3"/>
+               <!-- PDF PAGE 80 -->or his poſterity; And for the preſent continuance of this Leavy, when it ſhall be conſidered for what great ſummes, and to how many well affected perſons they have already engaged the Exciſe for Monies bor<g ref="char:EOLhyphen"/>rowed and juſtly due unto them, what expences they muſt yet be at before they can ſettle this Kingdome, what charges are requiſite to reduce the Kingdome of Ireland, and what great engagements do other<g ref="char:EOLhyphen"/>wiſe lie upon the Parliament for many ſupplies and ſervices, for ſatisfying whereof the publique Faith, and Honour of the Parliament, and Kingdome is en<g ref="char:EOLhyphen"/>gaged, they are confident that no well-affected, or underſtanding perſon can, or will deſire, or ex<g ref="char:EOLhyphen"/>pect that this Leavy, which they ſtill finde the moſt equall and indifferent courſe to go through ſo many great affaires ſhould ceaſe, while the Parliament is thus deeply engaged, and have ſo many preſſing occaſions for Monies for the neceſſary ſupport, and preſervation of the Kingdome; And therefore the ſaid Lords and Commons Aſſembled in Parliament, do hereby declare to the whole Kingdom that they ſhall, and do expect that all perſons whatſoever ſhall duely pay all ſummes of Money impoſed by any Or<g ref="char:EOLhyphen"/>dinance of Parliament by way of Exciſe upon all, and every the Commodities, Marchandizes, and things therein mentioned, and compriſed, and that the ſame Ordinances ſhall be duely obſerved according to the Rules therein preſcribed untill further Order of both Houſes of Parlament; Whereunto the ſaid Lords and Commons do hereby require all perſons to yeild all ready obedience, conformity and aſſiſtance accord<g ref="char:EOLhyphen"/>ingly as they tender the honour of the Parliament, the welfare of the Kingdom, and as they would approve themſelves well affected to both.</p>
+            <p>And wee the ſaid Lords and Commons Aſſembled in Parliament, to manifeſt our conſtant and ſincere
+<pb n="4" facs="tcp:159956:4"/>
+               <!-- PDF PAGE 81 -->intentions, in the continuance of this receipt of the Exciſe, doe hereby declare, that as hitherto the Re<g ref="char:EOLhyphen"/>venue thereof hath been wholie imployed for the Pub<g ref="char:EOLhyphen"/>lique uſes and occaſions of the Kingdome, and di<g ref="char:EOLhyphen"/>verted to no private uſe whatſoever, ſo they are ſtill reſolved to diſpoſe thereof in the ſame publique and neceſſary ſervices of the Common-wealth onely, and ſhall no longer continue this charge upon the Subject, then they ſhall finde the publique affaires wherewith they are intruſted neceſſarily to require the ſame; And when it ſhall pleaſe God by the continuance of his mercy, to enable them to ſettle the Peace of the King<g ref="char:EOLhyphen"/>dome, and to overcome the engagements thereof in ſome good meaſure, they ſhall then make it ap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eare to the whole World, how much more ready they are to eaſe the People of this charge, then they were willing at firſt to impoſe the ſame. In the meane time, and to the end that they may give all poſſible eaſe to the People, where the nature of ſuch a Leavie, and the juſt and moſt indifferent Rules, which muſt neceſſari<g ref="char:EOLhyphen"/>ly be uſed and obſerved in the rayſing of the ſame, will admit thereof.</p>
+            <p>They have for the better regulation of this Re<g ref="char:EOLhyphen"/>ceipt and for reſtreyning of Arbitrary and Exorbitant power, reſolved for the preſent on the Inſtructions and Rules enſuing; And doe hereby require the Commiſſioners of Exciſe, their Sub-Commiſſioners and all other their Collectors and under Officers duely to obſerve the ſame, and according as they the ſaid Lords and Commons ſhall further diſcover any further inconveniency or preaſures upon the People in the leavying of the Exciſe. It ſhall be their continuall care to finde out ſuch fitting remedies for the eaſe of them, and removing of all juſt grievances as ſhall be a ſufficient teſtinony to the whole Kingdome, how ready they are to anſwer the great truſt repoſed in
+<pb n="5" facs="tcp:159956:4"/>
+               <!-- PDF PAGE 81 -->them, and to let the People enjoy the long expected fruits of their great expences and contributions.</p>
+            <p>And the ſaid Lords and Commons doe hereby fur<g ref="char:EOLhyphen"/>ther declare, and Ordaine, that for the better and dire puniſhment of all ſuch Tumults, Riot<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and unlaw<g ref="char:EOLhyphen"/>full Aſſemblies; All Juſtices of the Peace, Sheriffes, Mayors, Bailiffes, and all other his Majeſties Officers within the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> as well within Liberties as without, within their ſeverall Counties, Liberties, and Jurisdictions reſpe<g ref="char:EOLhyphen"/>ctively, doe from time to time make diligent inquiry of all Tumults, Riots, &amp; other unlawfull Aſſemblies as have been, or for time to come ſhall be made, done, or committed againſt the ſaid Commiſſioners of Exciſe, their Sub-Commiſſioners or any of their Officers, or others in their aide and aſſiſtance in the execution of the ſeverall Ordinances of Exciſe, and all ſuch perſons as have or ſhall make or cauſe ſuch Tumults, or Riots, to apprehend, and to commit to priſon and to puniſh according to Law.</p>
+            <p>And in caſe any Tumult, or Riot be hereafter at<g ref="char:EOLhyphen"/>tempted, or acted againſt the ſaid Commiſſioners of Exciſe, their Sub-Commiſſioners, Collectors or Of<g ref="char:EOLhyphen"/>ficers, or others in their aide, and aſſiſtance. It is hereby further Ordained and declared, that for the bet<g ref="char:EOLhyphen"/>ter aiding and aſſiſting, the ſaid Commiſſioners of Ex<g ref="char:EOLhyphen"/>ciſe, their ſeverall Sub-Commiſſioners, Officers, and others in their aide and aſſiſtance, in purſuance of the ſaid Ordinances of Parliament for the levying of Ex<g ref="char:EOLhyphen"/>ciſe; All Sheriffes, Deputie-Lieutenants, Juſtices of the Peace, Mayors, Bayliffs, Conſtables, Headbo<g ref="char:EOLhyphen"/>roughs, and all other his Majeſties Officers in their ſe<g ref="char:EOLhyphen"/>verall Counties, Liberties, and Jurisdictions. All Colonells, Captaines, Officers and Souldiers, and all other his Majeſties Subjects, be aiding and aſſiſting from time to time upon notice to them given for the
+<pb n="6" facs="tcp:159956:5"/>
+               <!-- PDF PAGE 82 -->ſuppreſſing of all ſuch Tumults, Riots; and unlawfull Aſſemblies, and in apprehending and bringing to con<g ref="char:EOLhyphen"/>digne puniſhment, all ſuch Rioters and Offenders ac<g ref="char:EOLhyphen"/>cording to Law. And in ayding and aſſiſting the ſaid Commiſſioners their Sub Commiſſioners and Officers, and others in their aide and aſſiſtance in execution of the ſaid Ordinances for Exciſe. And all ſuch as ſhall be ſo aiding and aſſiſting, ſhall be defended and ſaved harmeleſſe and indempnified, by Authority of both Hou<g ref="char:EOLhyphen"/>ſes of Parliament.</p>
+         </div>
+         <div type="instructions">
+            <pb n="7" facs="tcp:159956:5"/>
+            <!-- PDF PAGE 82 -->
+            <head>
+               <hi>Die Lunae</hi> 22 <hi>Febr.</hi> 1646. Additionall Inſtructions concerning the Excize.</head>
+            <div n="1" type="instruction">
+               <head>I.</head>
+               <p>THat no Excize, or Arreares of any Excize, due for any goods Excizeable, conſumed or ſpent, be henceforth Demanded, Lea<g ref="char:EOLhyphen"/>vied, or Collected by any Officer or Col<g ref="char:EOLhyphen"/>lector of Excize, due by any perſon before ſuch time as the Ordinances of Excize have or ſhall begin to be put in Execution in the ſeverall Counties or Cities, or any part of the ſaid Counties.</p>
+            </div>
+            <div n="2" type="instruction">
+               <head>II.</head>
+               <p>That no Exciſe, or any Arreares of Exciſe, be from henceforth Demanded, Leavied, or Collected, by any Officer or Collector of Excize, for any Ex<g ref="char:EOLhyphen"/>cize that did grow due by any perſon, for any Goods within any County, City, Towne, or Place, during the time ſuch County, City, Towne, or Place, were under the power of the Enemy.</p>
+            </div>
+            <div n="3" type="instruction">
+               <head>III.</head>
+               <p>That the Excize of Ale and Beere be rayſed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd leavied upon the Subjects of this Kingdome, as
+<pb n="8" facs="tcp:159956:6"/>
+                  <!-- PDF PAGE 83 -->is preſcribed and directed by the ſeverall Ordinances of Parliament, for the Aſſeſſing, Raiſing, and Colle<g ref="char:EOLhyphen"/>cting thereof, and not by way of Poll, or otherwiſe, unleſſe it be where any perſon or perſons have, or ſhall at their owne deſire, and free conſent, and for ſuch time onely, as they ſhall ſo deſire and conſent unto, in writing, compound by the Poll or otherwiſe, for Beere and Ale brewed in their owne houſes, and conſumed by themſelves and family within their own houſes.</p>
+            </div>
+            <div n="4" type="instruction">
+               <head>IV.</head>
+               <p>That upon complaint made upon Oath to any the Juſtices of Peace of any County of this Kingdome, or to any Mayor, Bayliffe, or chiefe Officer, in any City or Towne Corporate, of the Kingdome of <hi>England</hi> or Dominion of <hi>Wales,</hi> That the Sub-Com<g ref="char:EOLhyphen"/>miſſioners of Excize, their Officers or Servants, or any of them, under colour or pretext of the truſt in them repoſed, and power given by the ſeverall Or<g ref="char:EOLhyphen"/>dinances of Parliament, have or ſhall oppreſſe and abuſe the People, by exacting or compelling them to pay more or greater ſummes of Money, then is appointed by the ſeverall Ordinances of Excize; or Fine and Impriſon, contrary to the ſaid Ordinan<g ref="char:EOLhyphen"/>ces, or to have converted or imployed the Money by them collected, to their owne uſes, or to any other uſe then is appointed by the ſaid Ordinances, or otherwiſe abuſe the ſaid Truſts and Power given them; That the ſaid Juſtices, Mayors, Bayliffs, and Chiefe Officers, have Authority, and are hereby re<g ref="char:EOLhyphen"/>quired, to ſend for the Parties and Witneſſes, and
+<pb n="9" facs="tcp:159956:6"/>
+                  <!-- PDF PAGE 83 -->to examine the Witneſſes upon Oath, giving notice to the Parties, of the time of examining the ſaid Witneſſes; and the Examinations ſo taken upon Oath, to ſend up in writing, ſealed up, and ſubſcribed by the hand of the Juſtice of Peace, or other chiefe Officer, before whom the ſaid Examinations ſhall be taken from time to time, within twenty daies after the complaint made to both or either Houſe of Par<g ref="char:EOLhyphen"/>liament, or to the Committee of Lords and Commons for regulating the Excize, ſitting at the Starre Cham<g ref="char:EOLhyphen"/>ber <hi>Weſtminſter,</hi> who ſhall and will proceed to the conſideration of the ſaid Offences, and to the ſevere and due puniſhment of the ſaid Offendors, as to Ju<g ref="char:EOLhyphen"/>ſtice ſhall appertaine.</p>
+            </div>
+            <div n="5" type="instruction">
+               <head>V.</head>
+               <p>That in caſe any Juſtice of Peace, Deputy Lievtenant, or any of the Committees within the ſe<g ref="char:EOLhyphen"/>verall Counties of this Kingdome ſhall refuſe, or wil<g ref="char:EOLhyphen"/>fully neglect to pay the Exciſe by them due and pay<g ref="char:EOLhyphen"/>able, and to conforme to the orders and directions in the ſeverall Ordinances of Exciſe, or that ſhall affront, or publikely abuſe the ſaid Sub-commiſſioners of Exciſe, or their Officers within the ſaid reſpective Counties, in the execution of their ſeverall duties and places according to the Ordinances of Exciſe: That the Deputy Lievtenants, Juſtices of the Peace, May<g ref="char:EOLhyphen"/>ors, Bayliffes, or other chiefe Officers within the ſaid Counties, Cities, and places, or any of them, upon notice and requeſt to them made by the ſaid Sub-commiſſioners, or any of them, doe examine the ſame upon Oath, and thereof within twenty dayes certifie
+<pb n="10" facs="tcp:159956:7"/>
+                  <!-- PDF PAGE 84 -->in writing the ſaid Houſes of Parliament, or either of them, or the Committee of Lords and Commons for regulating the Excize, who will proceed thereupon againſt ſuch perſons as to juſtice ſhall appertaine accor<g ref="char:EOLhyphen"/>ding to their demerits.</p>
+            </div>
+            <div n="6" type="instruction">
+               <head>VI.</head>
+               <p> That no perſon taking Almes or Collection, ſhall be compelled to pay Excize for any Ale or Beere, that is, or ſhall be brewed in their owne houſes, and con<g ref="char:EOLhyphen"/>ſumed by themſelves and family within their owne houſes.</p>
+            </div>
+            <closer>
+               <signed>Joh. Brown Cler. Parliamentorum.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
